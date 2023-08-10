@@ -1,10 +1,21 @@
 - 👋 Hi, I’m @Nxbadhon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Nxbadhon/Nxbadhon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+pkg install python
+
+pkg install git
+
+pip2 install requests
+
+pip2 install mechanize
+
+pip install requests
+
+pip install mechanize
+
+rm -rf FB-BOT
+
+git clone https://github.com/MAHADI-143/FB-BOT.git
+
+cd FB-BOT
+
+python3 RUN.py
